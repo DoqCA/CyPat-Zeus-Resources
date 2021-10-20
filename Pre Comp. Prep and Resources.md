@@ -1,9 +1,9 @@
 Linux Pre round resources for training:
 -
 
-- Video of Linux security fixes: [a link](PreviewPreview20:04Securing Ubuntu Linux (CyberPatriot)YouTube · Pentests and TechMay 14, 2020)
+- Video of Linux security fixes: https://www.youtube.com/watch?v=JVxkTqLoyGY
 - CyPat/Titans shared folder: https://drive.google.com/drive/folders/1pCpshgsoACXrzXQXSE2Nuf17se-sFTFZ?usp=sharing
-- Cyber Patriot site resources: [a link](Introduction to Linux and Ubuntu - CYBERPATRIOThttps://s3.amazonaws.com › Training+materials)
+- Cyber Patriot site resources: https://s3.amazonaws.com/cpvii/Training+materials/Unit+Seven+-+Introduction+to+Linux+and+Ubuntu.pdf
 - Read over documentation from practice rounds
 - OSACS CyPat GitHub (includes resources and scripts of their own): https://github.com/osa-computer-society/cypatscript
 
@@ -17,11 +17,11 @@ Miscellaneous resources:
 - HackTheBox: Good way to get into more hacking (slight paywall, but initial courses are free so try them out)
 - Hacking (Also a great book for getting into more hacking (Not necessarily for Linux or Debian)
 - Second half of this Prezi demonstrates a good way of breaking down the Cyber Patriots scenarios
-- Prizes to motivate you: [a link](CyberPatriot - Wikipediahttps://en.wikipedia.org › wiki › CyberPatriot)
+- Prizes and information to motivate you: https://en.wikipedia.org/wiki/CyberPatriot
 
 
 The Miscs aren’t as important and should be done throughout the 1st semester like homework. If you want to get more resources (or have some) for qualifiers (as a Zeus you should) or are
-just ahead, then text me directly @doqca on insta!
+just ahead, then text me directly @doqca on https://www.instagram.com/doqca/!
 I really recommend looking over the scripts as they’re like all of the other resources wrapped up nice and neatly which can be found in the resources directory!
 
 Also recommend learning how to run scripts from a GitHub repo if you don’t know currently: https://projectdestroyer.com/2018/01/run-scripts-github/. 
