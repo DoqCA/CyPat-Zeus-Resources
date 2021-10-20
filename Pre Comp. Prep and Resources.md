@@ -6,6 +6,7 @@ Linux Pre round resources for training:
 - Read over documentation from practice rounds
 - OSACS CyPat GitHub (includes resources and scripts of their own): https://github.com/osa-computer-society/cypatscript
 
+-
 Windows (to do):
 - 
 
@@ -23,3 +24,4 @@ Also recommend learning how to run scripts from a GitHub repo if you don’t kno
 For the final section, you’ll almost always be running a bash script or python script which is done using the bash or python3/pip3 commands followed by the script name respectively. 
 
 Have a fun time hacking or whateva :)
+- Dq Brown October 20, 2021
