@@ -9,9 +9,17 @@ Linux Pre round resources for training:
 - Second half of this Prezi demonstrates a good way of breaking down the Cyber Patriots scenarios: https://prezi.com/ckndjiy6w7me/cyber-patriot-off-season-debian-system-security/
 
 
-Windows (to do):
+Windows:
 -
-...
+- https://www.youtube.com/watch?v=tZI_dfxEM8E
+- http://www.lacapnm.org/Cadets/STEM/CyberPatriot/SeasonVIII/CyberPatriot_Windows_CheckList.pdf
+- https://cdn.discordapp.com/attachments/414537868766347265/476808512731742258/daniel_plaza_intro_to_sys_hardening_windows_v1_0.pdf
+    - Skim over this one. It’s pretty long and covers a lot of the same things in the CIS (down below).
+- cyberpatriot windows 10 checklist
+    - Practice image for windows ^. DO IT.
+- https://www.acpsd.net/site/handlers/filedownload.ashx?moduleinstanceid=53976&dataid=56014&FileName=00%20-%20CyberPatriot%20Notes%20v4%20-%202013-11-09.pdf
+    - Check list
+
 
 Miscellaneous resources:
 -
