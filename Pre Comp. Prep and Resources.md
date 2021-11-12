@@ -17,6 +17,12 @@ Linux Pre round resources for training:
 - OSACS CyPat GitHub (includes resources and scripts of their own): https://github.com/osa-computer-society/cypatscript
 - Second half of this Prezi demonstrates a good way of breaking down the Cyber Patriots scenarios: https://prezi.com/ckndjiy6w7me/cyber-patriot-off-season-debian-system-security/
 - checklist: https://www.sans.org/media/score/checklists/LinuxCheatsheet_2.pdf
+- Basic Checklist: http://lacapnm.org/Cadets/STEM/CyberPatriot/SeasonVIII/CyberPatriot_Linux_CheckList.pdf
+- Better checklist: https://github.com/Forty-Bot/linux-checklist
+- Video of Linux security fixes: [a link](PreviewPreview20:04Securing Ubuntu Linux (CyberPatriot)YouTube · Pentests and TechMay 14, 2020)
+- Cyber Patriot site resources: [a link](Introduction to Linux and Ubuntu - CYBERPATRIOThttps://s3.amazonaws.com › Training+materials)
+- Read over documentation from practice rounds (If you have documentation please commit the file!)
+- Debian checklist: https://github.com/curtisf/cyberpatriot-debian8-hardening
 
 
 Windows:
