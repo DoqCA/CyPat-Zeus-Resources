@@ -20,6 +20,10 @@ Windows:
 - https://www.acpsd.net/site/handlers/filedownload.ashx?moduleinstanceid=53976&dataid=56014&FileName=00%20-%20CyberPatriot%20Notes%20v4%20-%202013-11-09.pdf
     - Check list
 
+Practice:
+-
+- https://github.com/0x000null/CSSR/
+  - Visit this github for practice images
 
 Miscellaneous resources:
 -
