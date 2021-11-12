@@ -1,3 +1,12 @@
+The best resources:
+-
+Super good resource that (if you’re on Zeus, you should use - if not, go away :)):
+- https://www.dropbox.com/sh/1oj0kzetl4nws1o/AABURdupWQ9lIWhlPLsCUocya?dl=0
+These are the CIS benchmarks for ALL image types. I recommend you study them extensively to get the most out of them. They are pretty long for during-round view. I’m serious, this resource is an almighty resource that includes things that CP often scores for too. Use it wisely. Again I recommend not using it in round cause it’s long, and if you make finals, you won’t be able to use anything not made by the team.
+- https://www.uscyberpatriot.org/competition/training-materials
+This is the official site for CP training modules.
+
+
 Linux Pre round resources for training:
 -
 
@@ -7,10 +16,12 @@ Linux Pre round resources for training:
 - Read over documentation from practice rounds
 - OSACS CyPat GitHub (includes resources and scripts of their own): https://github.com/osa-computer-society/cypatscript
 - Second half of this Prezi demonstrates a good way of breaking down the Cyber Patriots scenarios: https://prezi.com/ckndjiy6w7me/cyber-patriot-off-season-debian-system-security/
+- checklist: https://www.sans.org/media/score/checklists/LinuxCheatsheet_2.pdf
 
 
 Windows:
 -
+
 - https://www.youtube.com/watch?v=tZI_dfxEM8E
 - http://www.lacapnm.org/Cadets/STEM/CyberPatriot/SeasonVIII/CyberPatriot_Windows_CheckList.pdf
 - https://cdn.discordapp.com/attachments/414537868766347265/476808512731742258/daniel_plaza_intro_to_sys_hardening_windows_v1_0.pdf
@@ -20,13 +31,19 @@ Windows:
 - https://www.acpsd.net/site/handlers/filedownload.ashx?moduleinstanceid=53976&dataid=56014&FileName=00%20-%20CyberPatriot%20Notes%20v4%20-%202013-11-09.pdf
     - Check list
 
+
 Practice:
 -
+
 - https://github.com/0x000null/CSSR/
   - Visit this github for practice images
+- https://cyber-guild.org/home-page/round-2-windows-10-practice-image/
+  - This one for windows specifically.
+- These are like real round images!
 
 Miscellaneous resources:
 -
+
 - HackTheBox: Good way to get into more hacking (academy has slight paywall, but initial courses are free so try them out:
   - https://academy.hackthebox.com (Academy - If you're a little new to linux)
   - https://www.hackthebox.eu (Actual site - If you're fairly confident in your Linux and hacking skills)
