@@ -23,6 +23,7 @@ Linux Pre round resources for training:
 - Cyber Patriot site resources: [a link](Introduction to Linux and Ubuntu - CYBERPATRIOThttps://s3.amazonaws.com › Training+materials)
 - Read over documentation from practice rounds (If you have documentation please commit the file!)
 - Debian checklist: https://github.com/curtisf/cyberpatriot-debian8-hardening
+- Super good script: https://github.com/BiermanM/CyberPatriot-Scripts/blob/master/UbuntuScript.sh credits: BiermanM
 
 
 Windows:
